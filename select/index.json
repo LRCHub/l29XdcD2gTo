@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Christmas Tree",
+  "base_artist": "V",
+  "createdAt": "2026-01-11T07:20:49.645689Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everything Is One Big Christmas Tree",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/01_Everything_Is_One_Big_Christmas_Tree_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "O Christmas Tree",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/02_O_Christmas_Tree_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Happiest Christmas Tree",
+      "artist": "Nat King Cole",
+      "has_synced": false,
+      "path": "select/03_The_Happiest_Christmas_Tree_Nat_King_Cole.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Happiest Christmas Tree (2009 Digital Remaster)",
+      "artist": "Nat King Cole",
+      "has_synced": false,
+      "path": "select/04_The_Happiest_Christmas_Tree_(2009_Digital_Remaster)_Nat_King_Cole.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rockin' Around the Christmas Tree",
+      "artist": "Jessie J",
+      "has_synced": false,
+      "path": "select/05_Rockin'_Around_the_Christmas_Tree_Jessie_J.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rockin' Around the Christmas Tree",
+      "artist": "She & Him",
+      "has_synced": true,
+      "path": "select/06_Rockin'_Around_the_Christmas_Tree_She_&_Him.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rockin' Around the Christmas Tree",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/07_Rockin'_Around_the_Christmas_Tree_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rockin' Around the Christmas Tree",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/08_Rockin'_Around_the_Christmas_Tree_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rockin' Around the Christmas Tree",
+      "artist": "Delta Goodrem",
+      "has_synced": true,
+      "path": "select/09_Rockin'_Around_the_Christmas_Tree_Delta_Goodrem.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rockin’ Around the Christmas Tree",
+      "artist": "Delta Goodrem",
+      "has_synced": true,
+      "path": "select/10_Rockin’_Around_the_Christmas_Tree_Delta_Goodrem.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rockin' Around The Christmas Tree (Glee Cast Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/11_Rockin'_Around_The_Christmas_Tree_(Glee_Cast_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rockin' Around The Christmas Tree",
+      "artist": "Ingrid Michaelson feat. Grace VanderWaal",
+      "has_synced": true,
+      "path": "select/12_Rockin'_Around_The_Christmas_Tree_Ingrid_Michaelson_feat._Grace_VanderWaal.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rockin’ Around the Christmas Tree",
+      "artist": "Ingrid Michaelson feat. Grace VanderWaal",
+      "has_synced": true,
+      "path": "select/13_Rockin’_Around_the_Christmas_Tree_Ingrid_Michaelson_feat._Grace_VanderWaal.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rockin' Around The Christmas Tree",
+      "artist": "Chris Isaak",
+      "has_synced": true,
+      "path": "select/14_Rockin'_Around_The_Christmas_Tree_Chris_Isaak.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Christmas Tree Farm",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/15_Christmas_Tree_Farm_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Christmas Tree Farm",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/16_Christmas_Tree_Farm_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rockin' Around the Christmas Tree",
+      "artist": "Brenda Lee",
+      "has_synced": true,
+      "path": "select/17_Rockin'_Around_the_Christmas_Tree_Brenda_Lee.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "O Christmas Tree",
+      "artist": "Tony Bennett",
+      "has_synced": true,
+      "path": "select/18_O_Christmas_Tree_Tony_Bennett.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Rockin' Around the Christmas Tree",
+      "artist": "Brenda Lee",
+      "has_synced": true,
+      "path": "select/19_Rockin'_Around_the_Christmas_Tree_Brenda_Lee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Christmas Tree",
+      "artist": "V",
+      "has_synced": false,
+      "path": "select/pl_01_Christmas_Tree_V.txt"
+    }
+  ]
+}
